@@ -10,7 +10,7 @@ If you are looking for help with PhoneGap please visit the
 ## Usage
 
 ### Desktop
-
+Edited by Anna Pachon :)
 In your browser, open the file:
 
     /www/index.html
